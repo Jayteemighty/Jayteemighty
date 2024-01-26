@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<h1>Hello GIF/Earth.gif , I am ADESINA JOSHUA.</h1>
+<h1>Hello GIF/E![Earth](https://github.com/Jayteemighty/Jayteemighty/assets/140406481/0af35a6f-ce14-40c0-afa9-32ea8dce1aea)
+arth.gif , I am ADESINA JOSHUA.</h1>
 I am a backend developer (DJANGO)
 
 - 🔭 I’m currently working on Django, Nextjs
