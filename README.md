@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hello  , I am ADESINA JOSHUA.</h1>
+<h1>Hello GIF/Earth.gif , I am ADESINA JOSHUA.</h1>
 I am a backend developer (DJANGO)
 
 - 🔭 I’m currently working on Django, Nextjs
