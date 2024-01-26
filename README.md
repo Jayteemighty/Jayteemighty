@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hello ![Earth](https://github.com/Jayteemighty/Jayteemighty/assets/140406481/3d06996c-a4bf-4795-9548-08839c4dcd07)
+<h1>Hello [![Earth](https://github.com/Jayteemighty/Jayteemighty/assets/140406481/3d06996c-a4bf-4795-9548-08839c4dcd07)](https://github.com/Jayteemighty/Jayteemighty/blob/main/Earth.gif)
 I am ADESINA JOSHUA.</h1>
 I am a backend developer (DJANGO)
 
