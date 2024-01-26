@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-Hello  , I am ADESINA JOSHUA.
-I am a backend developer
+<h1>Hello  , I am ADESINA JOSHUA.</h1>
+I am a backend developer (DJANGO)
 
 - 🔭 I’m currently working on Django, Nextjs
 - 🌱 I’m currently learning Microservices, Kubernetes, Docker, AWS, Architecture
