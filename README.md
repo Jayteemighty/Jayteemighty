@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **tolujosh1@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1Lxb8YAQpNOUoYHepayHCfnvf-8rM6PDn/view?usp=sharing
-
 - ⚡ Fun fact **Me encanta codificar. Si, también hablo español.**
 
 <h3 align="left">Connect with me:</h3>
