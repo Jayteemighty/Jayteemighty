@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ADESINA JOSHUA</h1>
-<h3 align="center">A passionate Fullstack developer (Javascript & Python)</h3>
+<h3 align="center">A Passionate Fullstack Engineer (Javascript & Python)</h3>
 
 - 🌱 I’m currently learning **Microservices, Kubernetes, Docker, AWS, Architecture**
 
