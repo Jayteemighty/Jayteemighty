@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm ADESINA JOSHUA</h1>
-<h3 align="center">A passionate Backend developer (DJANGO)</h3>
+<h3 align="center">A passionate Fullstack developer (Javascript & Python)</h3>
 
 - 🌱 I’m currently learning **Microservices, Kubernetes, Docker, AWS, Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jayteemighty](https://github.com/Jayteemighty)
-
-- 💬 Ask me about **anything programming related**
 
 - 📫 How to reach me **tolujosh1@gmail.com**
 
