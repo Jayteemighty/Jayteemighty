@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADESINA JOSHUA</h1>
 <h3 align="center">A Passionate Fullstack Engineer (Javascript & Python)</h3>
 
-- 🌱 I’m currently work with **Microservices, Kubernetes, Docker, AWS, Architecture**
+- 🌱 I currently work with **Microservices, Kubernetes, Docker, AWS, Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jayteemighty](https://github.com/Jayteemighty)
 
