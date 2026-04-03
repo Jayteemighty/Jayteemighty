@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ADESINA JOSHUA</h1>
+<h1 align="center">Hi 👋, I'm Joshua Adesina</h1>
 <h3 align="center">A Passionate Software Engineer (C++, Typescript, Python and Golang)</h3>
 
 - 🌱 I currently work with **Microservices, Kubernetes, Docker, AWS, Architecture**
